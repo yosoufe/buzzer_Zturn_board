@@ -1,0 +1,6 @@
+*.sim
+*.sdk
+*.runs
+*.ip_user_files
+*.hw
+*.cache
